@@ -34,7 +34,10 @@ Built with SwiftUI · Apple Silicon only · macOS 14+
 
 ## Screenshots
 
-<!-- Add screenshots here: drag images into this file on GitHub or put them in .github/ -->
+<p align="center">
+  <img src="docs/settings-appearance.png" alt="Appearance settings with seven themes" width="49%">
+  <img src="docs/settings-equalizer.png" alt="3-band equalizer" width="49%">
+</p>
 
 ## Installation
 
