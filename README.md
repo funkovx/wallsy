@@ -34,6 +34,10 @@ Built with SwiftUI · Apple Silicon only · macOS 14+
 
 ## Screenshots
 
+![Home screen](docs/home.png)
+
+![Album view](docs/album.png)
+
 <p align="center">
   <img src="docs/settings-appearance.png" alt="Appearance settings with seven themes" width="49%">
   <img src="docs/settings-equalizer.png" alt="3-band equalizer" width="49%">
