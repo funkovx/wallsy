@@ -57,7 +57,7 @@ If your Navidrome server is on the local network, macOS will ask for **Local Net
 ## Building from source
 
 ```bash
-git clone https://github.com/qfunky/wallsy.git
+git clone https://github.com/funkovx/wallsy.git
 cd wallsy
 xcodebuild -project NaviPlay.xcodeproj -scheme NaviPlay -configuration Release build
 ```
